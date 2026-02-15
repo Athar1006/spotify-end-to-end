@@ -1,0 +1,9 @@
+{
+	"name": "adf-athar-azure-project",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f64b3c45-b54f-48bf-b426-1de38fb77827",
+		"tenantId": "7a021ee1-2601-4e58-bb16-6ae1dff28c90"
+	}
+}
